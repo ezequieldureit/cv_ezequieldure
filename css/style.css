@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-  --primary: #00B87B;
-  --secondary: #314355;
+  --primary: #606ce2;
+  --secondary: #242753;
   --light: #F2F2F2;
-  --dark: #2C3E50;
+  
 }
 
 #spinner {
