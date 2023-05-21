@@ -93,6 +93,31 @@
   animation: action 1s infinite alternate;
 }
 
+.flags {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+
+.flags__item {
+  width: 40px;
+  padding: 10px;
+  
+}
+
+.flags__img {
+  display: block;
+  cursor: pointer;
+  
+}
+
+
+
+
+
 @-webkit-keyframes action {
   0% {
     transform: translateY(0);

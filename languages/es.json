@@ -1,0 +1,95 @@
+{
+  "menu": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "skills": "Habilidades",
+    "experience": "Experiencia",
+    "services": "Servicios",
+    "contact": "Contacto"
+  },
+  "profile": {
+    "download": "Descargar CV",
+    "contact-me": "Contactarme"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "description": "¡Hola, mi nombre es Ezequiel! Soy un apasionado profesional de TI con experiencia en soporte técnico, redes y desarrollo web.\n\nMi enfoque se centra en brindar soluciones eficientes en soporte técnico, garantizando el funcionamiento óptimo de los sistemas y la infraestructura de TI. Además, tengo habilidades en diseño, implementación y gestión de redes, asegurando su estabilidad y seguridad.\n\nTambién me he aventurado en el desarrollo web, creando sitios web interactivos y visualmente atractivos que cumplen con los últimos estándares. Me esfuerzo por ofrecer una experiencia de usuario excepcional, asegurando la usabilidad y optimización de los sitios web.\n\nSiempre estoy abierto al aprendizaje continuo y me mantengo actualizado con las últimas tendencias en TI para proporcionar soluciones innovadoras.\n\nEstoy entusiasmado con la oportunidad de conectarme con profesionales de la industria y explorar oportunidades de colaboración. No dudes en contactarme con un mensaje o solicitud de conexión.\n\n¡Gracias por tu atención!",
+    "name": "Nombre:",
+    "degree": "Grado:",
+    "degree-description": "Licenciatura en sistemas en curso",
+    "phone": "Teléfono:",
+    "address": "Dirección:",
+    "birthday": "Fecha de nacimiento:",
+    "birthday-description": "3 de Octubre de 1988",
+    "experience": "Experiencia:",
+    "experience-description": "12 años",
+    "freelance-description": "Disponible"
+  },
+  "counter": {
+    "years": "Años de",
+    "experience": "Experiencia",
+    "happy": "Felices",
+    "clients": "Clientes",
+    "complete": "Completados",
+    "projects": "Proyectos"
+  },
+  "skills": {
+    "title": "Habilidades",
+    "html": "HTML",
+    "css": "CSS",
+    "javascript": "JavaScript",
+    "react": "React JS",
+    "wordpress": "WordPress",
+    "networks": "Redes Informáticas"
+  },
+  "position-1": {
+    "title": "Soporte Técnico",
+    "company": "Dell Computers",
+    "dates": "2008 - 2010",
+    "description": "Como especialista en soporte técnico en Dell Support, gestioné y resolví solicitudes de soporte de clientes, diagnosticé y resolví problemas de hardware y software, realicé reparaciones y reemplazos de componentes, y brindé orientación y asesoramiento sobre el uso adecuado de las computadoras Dell. Mi objetivo era brindar un servicio excepcional y garantizar el buen funcionamiento del equipo de los clientes."
+  },
+  "position-2": {
+    "title": "Soporte Técnico",
+    "company": "Congress Rental",
+    "dates": "2010 - 2021",
+    "description": "Como profesional de TI en Congress Rental, proporcioné servicios de TI para eventos. Mis responsabilidades incluían configurar y administrar la infraestructura de TI, garantizar el funcionamiento fluido del equipo audiovisual, solucionar problemas técnicos y brindar soporte en el lugar durante los eventos. Trabajé en estrecha colaboración con los clientes para comprender sus requisitos específicos de TI y ofrecer soluciones confiables para satisfacer sus necesidades. Jugué un papel vital en garantizar el éxito de los eventos al garantizar una conectividad perfecta, una gestión eficiente de datos y un soporte técnico excepcional."
+  },
+  "position-3": {
+    "title": "Desarrollador Web",
+    "company": "Dataflow Services",
+    "dates": "2022 - Presente",
+    "description": "Como desarrollador web en Dataflow, soy responsable de crear y mantener sitios web que satisfagan las necesidades de nuestros clientes. Colaboro estrechamente con nuestros clientes para comprender sus requisitos y ofrecer soluciones web personalizadas. Mi rol implica diseñar sitios web visualmente atractivos y fáciles de usar, implementar diseño responsivo para una visualización sin problemas en diferentes dispositivos y optimizar el rendimiento del sitio web para una experiencia de usuario óptima. También me mantengo actualizado sobre las últimas tendencias y tecnologías de desarrollo web para garantizar que nuestros sitios web se construyan utilizando las mejores prácticas. Con un enfoque en ofrecer sitios web de alta calidad y funcionales, desempeño un papel clave en ayudar a nuestros clientes a establecer una sólida presencia en línea y alcanzar sus objetivos comerciales."
+  },
+  "web-design": {
+    "title": "Desarrollo Web",
+    "description": "Ofrezco servicios profesionales de desarrollo web con diseños atractivos y funcionalidad de primera categoría. ¡Lleva tu presencia en línea al siguiente nivel con mi ayuda!"
+  },
+  "app-development": {
+    "title": "Desarrollo de aplicaciones",
+    "description": "Me especializo en el desarrollo de aplicaciones y ofrezco soluciones innovadoras para llevar tus ideas al mundo digital. Contáctame para discutir tus necesidades y comenzar con tu proyecto."
+  },
+  "seo": {
+    "title": "SEO",
+    "description": "Me especializo en ofrecer servicios profesionales de SEO que ayudarán a mejorar tu visibilidad en línea y atraer más tráfico a tu sitio web. ¡Trabajemos juntos para alcanzar tus objetivos de marketing digital!"
+  },
+  "networking": {
+    "title": "Networking",
+    "description": "Soy un especialista en redes informáticas, dedicado a proporcionar soluciones confiables para una conectividad sin problemas. Con una amplia experiencia en el diseño, implementación y gestión de redes informáticas."
+  },
+
+  "portfolio": {
+    "all": "Todo",
+    "development": "Desarrollo"
+  },
+
+  "contact": {
+    "title": "Contáctame",
+    "description": "Si estás interesado en mis servicios, no dudes en contactarme. ¡Espero con ansias recibir tu mensaje y responderte lo más pronto posible!",
+    "name": "Tu Nombre",
+    "email": "Tu Email",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "submit": "Enviar mensaje",
+    "response": "Gracias por contactarme. Me pondre en contacto contigo pronto."
+  }
+}

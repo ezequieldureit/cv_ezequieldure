@@ -46,46 +46,74 @@
                         <div class="mb-4" style="height: 22px;">
                             <h4 class="typed-text-output d-inline-block text-light"></h4>
                             <div class="typed-text d-none">Web Developer, Sys Admin</div>
-                        </div>
+                        </div>                                 
                         <div class="d-flex justify-content-center mt-auto mb-3">
-                            <a class="btn btn-secondary btn-square mx-1" href="https://www.linkedin.com/in/ezequiel-dur%C3%A9-1b988a206/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                            <a class="btn btn-secondary btn-square mx-1" href="https://www.instagram.com/ezedure/" target="_blank"><i class="fab fa-instagram"></i></a>
+                            <div id="flags" class="flags">
+                                <div class="flags__item" data-language="en">
+                                <img src="./img/us.svg" class="flags__img" alt="English">
+                                </div>
+                                <div class="flags__item" data-language="es">
+                                <img src="./img/es.svg" class="flags__img" alt="Spanish">
+                                </div>
+                            </div>            
                         </div>
                         <div class="d-flex align-items-end justify-content-between border-top">
-                            <a href="https://drive.google.com/file/d/1g296DgkUq30rtpPIEDhUkmtJC4ruhAQZ/view?usp=sharing" target="_blank" class="btn w-50 border-end">Download CV</a>
-                            <a href="#contact" class="btn w-50 btn-scroll">Contact Me</a>
+                            <a href="https://drive.google.com/file/d/1g296DgkUq30rtpPIEDhUkmtJC4ruhAQZ/view?usp=sharing" target="_blank" class="btn w-50 border-end" data-section="profile"
+                            data-value="download">Download CV</a>
+                            <a href="#contact" class="btn w-50 btn-scroll" data-section="profile"
+                            data-value="contact-me">Contact Me</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-8">
                     <!-- About Start -->
                     <section class="py-5 border-bottom wow fadeInUp" data-wow-delay="0.1s">
-                        <h1 class="title pb-3 mb-5">About Me</h1>
-                        <p>Hi, my name is Ezequiel, I'm a systems degree student and passionate about everything related to technology. I am currently working as a freelance in web development. I love working as a team on interesting projects and walking the path to achieve the proposed objectives. I consider myself a person eager to learn new things and to apply them to my stack of knowledge learned all these years.</p>
+                        <h1 class="title pb-3 mb-5" data-section="about" data-value="title">About Me</h1>
+                        <p data-section="about" data-value="description">Hi, mi name is Ezequiel! I am a passionate IT professional with expertise in technical support, networking, and web development.
+
+                            My focus is on providing efficient solutions in technical support, ensuring optimal functioning of systems and IT infrastructure. Additionally, I have skills in designing, implementing, and managing networks, ensuring their stability and security.
+                            
+                            I have also ventured into web development, creating interactive and visually appealing websites that adhere to the latest standards. I strive to deliver an exceptional user experience, ensuring usability and optimization of websites.
+                            
+                            I am always open to continuous learning and stay updated with the latest trends in IT to provide innovative solutions.
+                            
+                            I am excited about the opportunity to connect with professionals in the industry and explore collaboration opportunities. Please feel free to reach out to me with a message or connection request.
+                            
+                        </p>
                         <div class="row mb-4">
                             <div class="col-sm-6 py-1">
-                                <span class="fw-medium text-primary">Name:</span> Ezequiel Duré
+                                <span class="fw-medium text-primary" data-section="about" data-value="name">Name:</span> Ezequiel Duré
                             </div>
                             <div class="col-sm-6 py-1">
-                                <span class="fw-medium text-primary">Birthday:</span> 3 October 1988
+                                <span class="fw-medium text-primary" data-section="about" data-value="birthday">Birthday:</span> 
+                                <span data-section="about" data-value="birthday-description">3 October 1988</span> 
                             </div>
                             <div class="col-sm-6 py-1">
-                                <span class="fw-medium text-primary">Degree:</span> Computer Science Degree in progress
+                                <span class="fw-medium text-primary" data-section="about" data-value="degree">Degree:</span>  
+                                <span data-section="about" data-value="degree-description">
+                                Computer Science Degree in progress
+                                </span>
                             </div>
                             <div class="col-sm-6 py-1">
-                                <span class="fw-medium text-primary">Experience:</span> 12 Years
+                                <span class="fw-medium text-primary" data-section="about" data-value="experience">Experience:</span> 
+                                <span data-section="about" data-value="experience-description">
+                                12 Years
+                                </span>
                             </div>
                             <div class="col-sm-6 py-1">
-                                <span class="fw-medium text-primary">Phone:</span> +5411- 21582109
+                                <span class="fw-medium text-primary" data-section="about" data-value="phone">Phone:</span> +5411- 21582109
                             </div>
                             <div class="col-sm-6 py-1">
                                 <span class="fw-medium text-primary">Email:</span> ezequieldure.it@gmail.com
                             </div>
                             <div class="col-sm-6 py-1">
-                                <span class="fw-medium text-primary">Address:</span> Buenos Aires, Argentina.
+                                <span class="fw-medium text-primary" data-section="about" data-value="address">Address:</span> Buenos Aires, Argentina.
                             </div>
                             <div class="col-sm-6 py-1">
-                                <span class="fw-medium text-primary">Freelance:</span> Available
+                                <span class="fw-medium text-primary">Freelance:</span> 
+                                <span data-section="about" data-value="freelance-description">
+                                Available
+                                </span>
                             </div>
                         </div>
                         <div class="row g-4">
@@ -93,8 +121,8 @@
                                 <div class="d-flex bg-secondary p-4">
                                     <h1 class="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">12</h1>
                                     <div class="ps-3">
-                                        <p class="mb-0">Years of</p>
-                                        <h5 class="mb-0">Experience</h5>
+                                        <p class="mb-0" data-section="counter" data-value="years">Years of</p>
+                                        <h5 class="mb-0" data-section="counter" data-value="experience">Experience</h5>
                                     </div>
                                 </div>
                             </div>
@@ -102,8 +130,8 @@
                                 <div class="d-flex bg-secondary p-4">
                                     <h1 class="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">64</h1>
                                     <div class="ps-3">
-                                        <p class="mb-0">Happy</p>
-                                        <h5 class="mb-0">Clients</h5>
+                                        <p class="mb-0" data-section="counter" data-value="clients">Happy</p>
+                                        <h5 class="mb-0" data-section="counter" data-value="happy">Clients</h5>
                                     </div>
                                 </div>
                             </div>
@@ -111,8 +139,8 @@
                                 <div class="d-flex bg-secondary p-4">
                                     <h1 class="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">64</h1>
                                     <div class="ps-3">
-                                        <p class="mb-0">Complete</p>
-                                        <h5 class="mb-0">Projects</h5>
+                                        <p class="mb-0" data-section="counter" data-value="projects">Complete</p>
+                                        <h5 class="mb-0" data-section="counter" data-value="complete">Projects</h5>
                                     </div>
                                 </div>
                             </div>
@@ -122,7 +150,7 @@
 
                     <!-- Skills Start -->
                     <section class="py-5 border-bottom wow fadeInUp" data-wow-delay="0.1s">
-                        <h1 class="title pb-3 mb-5">Skills</h1>
+                        <h1 class="title pb-3 mb-5" data-section="menu" data-value="skills">Skills</h1>
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="skill mb-4">
@@ -174,7 +202,7 @@
                                 </div>
                                 <div class="skill mb-4">
                                     <div class="d-flex justify-content-between">
-                                        <p class="mb-2">Computer Networks</p>
+                                        <p class="mb-2">Networking</p>
                                         <p class="mb-2">85%</p>
                                     </div>
                                     <div class="progress">
@@ -191,30 +219,32 @@
 
                     <!-- Expericence Start -->
                     <section class="py-5 wow fadeInUp" data-wow-delay="0.1s">
-                        <h1 class="title pb-3 mb-5">Expericence</h1>
+                        <h1 class="title pb-3 mb-5" data-section="menu" data-value="experience">Experience</h1>
                         <div class="border-start border-2 border-light pt-2 ps-5">
                             <div class="position-relative mb-4">
                                 <span class="bi bi-arrow-right fs-4 text-light position-absolute" style="top: -5px; left: -50px;"></span>
-                                <h5 class="mb-1">Technical Support</h5>
+                                <h5 class="mb-1" data-section="position-1"
+                                data-value="title">Technical Support</h5>
                                 <p class="mb-2">Dell Computers | <small>2008 - 2010</small></p>
-                                <p>Technical Service of Servers, desktop PCs and laptops for Companies for warranty service.</p>
+                                <p data-section="position-1"
+                                data-value="description">As a technical support specialist at Dell Support, I handled and resolved customer support requests, diagnosed and resolved hardware and software issues, performed repairs and component replacements, and provided guidance and advice on the proper use of Dell computers. My goal was to deliver exceptional service and ensure the proper functioning of customers' equipment.</p>
                             </div>
                             <div class="position-relative mb-4">
                                 <span class="bi bi-arrow-right fs-4 text-light position-absolute" style="top: -5px; left: -50px;"></span>
-                                <h5 class="mb-1">Technical Support</h5>
+                                <h5 class="mb-1" data-section="position-2"
+                                data-value="title">Technical Support</h5>
                                 <p class="mb-2">Congress Rental | <small>2010 - 2021</small></p>
-                                <p>Installation and configuration of End Devices.
-                                    Installation and configuration of Switches and Routers (Cisco Technologies, Mikrotik, HP)
-                                    Installation and configuration of Wireless Networks (Cisco, Unify, Tp-Link, Mikrotik, Huawei)
-                                    IPTV services for audio and video transmission over LAN.
-                                    Setup, operation and moderation of Zoom and Microsoft Teams Meetings and Webinars.
-                                    Streaming of Events to Public Platforms (Youtube, Facebook Live, Instagram) and Private Platforms (Vimeo, Dacast, Akamai, etc.)</p>
+                                <p data-section="position-2"
+                                data-value="description">As an IT professional at Congress Rental, I provided IT services for events. My responsibilities included setting up and managing IT infrastructure, ensuring smooth operation of audiovisual equipment, troubleshooting technical issues, and providing on-site support during events. I worked closely with clients to understand their specific IT requirements and delivered reliable solutions to meet their needs. I played a vital role in ensuring the success of events by ensuring seamless connectivity, efficient data management, and exceptional technical support.</p>
                             </div>
                             <div class="position-relative mb-4">
                                 <span class="bi bi-arrow-right fs-4 text-light position-absolute" style="top: -5px; left: -50px;"></span>
-                                <h5 class="mb-1">Web Developer</h5>
-                                <p class="mb-2">Dataflow Services | <small>2022 - Present</small></p>
-                                <p>Development of medium and high demand web pages for corporate and social events.</p>
+                                <h5 class="mb-1" data-section="position-3"
+                                data-value="title">Web Developer</h5>
+                                <p class="mb-2">Dataflow Services | <small data-section="position-3"
+                                    data-value="dates">2022 - Present</small></p>
+                                <p data-section="position-3"
+                                data-value="description">As a web developer at Dataflow, I am responsible for creating and maintaining websites to meet our clients' needs. I collaborate closely with our clients to understand their requirements and deliver customized web solutions. My role involves designing visually appealing and user-friendly websites, implementing responsive design for seamless viewing across devices, and optimizing website performance for optimal user experience. I also stay updated on the latest web development trends and technologies to ensure that our websites are built using the best practices. With a focus on delivering high-quality and functional websites, I play a key role in helping our clients establish a strong online presence and achieve their business goals.</p>
                             </div>
                         </div>
                     </section>
@@ -223,34 +253,44 @@
 
                     <!-- Services Start -->
                     <section class="py-5 border-bottom wow fadeInUp" data-wow-delay="0.1s">
-                        <h1 class="title pb-3 mb-5">Services</h1>
+                        <h1 class="title pb-3 mb-5" data-section="menu"
+                        data-value="services">Services</h1>
                         <div class="row g-4">
                             <div class="col-md-6">
                                 <div class="service-item">
                                     <i class="fa fa-2x fa-laptop-code mx-auto mb-4"></i>
-                                    <h5 class="mb-2">Web Design</h5>
-                                    <p class="mb-0">I develop web pages to take your business to the internet. Made from the design, the layout and then the development.</p>
+                                    <h5 class="mb-2" data-section="web-design"
+                                    data-value="title">Web Design</h5>
+                                    <p class="mb-0" data-section="web-design"
+                                    data-value="description"> I offer professional web development services with attractive designs and top-notch functionality. Take your online presence to the next level with my assistance!</p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="service-item">
                                     <i class="fab fa-2x fa-android mx-auto mb-4"></i>
-                                    <h5 class="mb-2">Apps Development</h5>
-                                    <p class="mb-0">I develop medium to high demand web applications according to the client's needs.For both android and iphone devices.</p>
+                                    <h5 class="mb-2" data-section="app-development"
+                                    data-value="title">Apps Development</h5>
+                                    <p class="mb-0" data-section="app-development"
+                                    data-value="description">I specialize in app development and offer innovative solutions to bring your ideas to the digital world.Contact me to discuss your needs and get started on your project.
+                                    </p>                               
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="service-item">
                                     <i class="fa fa-2x fa-search mx-auto mb-4"></i>
-                                    <h5 class="mb-2">SEO</h5>
-                                    <p class="mb-0">I carry out organic positioning of web pages for the most used search engines. Both for pages developed in wordpress and in code.</p>
+                                    <h5 class="mb-2" data-section="seo"
+                                    data-value="title">SEO</h5>
+                                    <p class="mb-0" data-section="seo"
+                                    data-value="description">I specialize in providing professional SEO services that will help improve your online visibility and drive more traffic to your website.Let's work together to achieve your digital marketing objectives!</p>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="service-item">
                                     <i class="fa fa-2x fa-wifi mx-auto mb-4"></i>
-                                    <h5 class="mb-2">Computer networks</h5>
-                                    <p class="mb-0">I do data network consulting for small and medium-sized companies, from on-premises infrastructures to cloud infrastructures.</p>
+                                    <h5 class="mb-2" data-section="networking"
+                                    data-value="title">Networking</h5>
+                                    <p class="mb-0"data-section="networking"
+                                    data-value="description">I am a computer networks specialist, dedicated to providing reliable solutions for seamless connectivity. With extensive experience in designing, implementing, and managing computer networks.</p>
                                 </div>
                             </div>
                         </div>
@@ -265,8 +305,10 @@
                                 <div class="row">
                                     <div class="col-12 text-center mb-2">
                                         <ul class="list-inline mb-4" id="portfolio-flters">
-                                            <li class="btn btn-secondary active"  data-filter="*"><i class="fa fa-star me-2"></i>All</li>
-                                            <li class="btn btn-secondary" data-filter=".first"><i class="fa fa-laptop-code me-2"></i>Development</li>
+                                            <li class="btn btn-secondary active"  data-filter="*" data-section="portfolio"
+                                            data-value="all"><i class="fa fa-star me-2"></i>All</li>
+                                            <li class="btn btn-secondary" data-filter=".first" data-section="portfolio"
+                                            data-value="development"><i class="fa fa-laptop-code me-2"></i>Development</li>
                                             <li class="btn btn-secondary" data-filter=".second"><i class="fa fa-wifi me-2"></i>Networking</li>
                                         </ul>
                                     </div>
@@ -312,26 +354,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-6 mb-4 portfolio-item second">
-                                        <div class="position-relative overflow-hidden mb-2">
-                                            <img class="img-fluid w-100" src="img/portfolio-5.webp" alt="">
-                                            <div class="portfolio-btn d-flex align-items-center justify-content-center">
-                                                <a href="img/portfolio-5.webp" data-lightbox="portfolio">
-                                                    <i class="fs-4 text-light">Admin Wifi 350pax</i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 mb-4 portfolio-item second">
-                                        <div class="position-relative overflow-hidden mb-2">
-                                            <img class="img-fluid w-100" src="img/portfolio-6.webp" alt="">
-                                            <div class="portfolio-btn d-flex align-items-center justify-content-center">
-                                                <a href="img/portfolio-6.webp" data-lightbox="portfolio">
-                                                    <i class="fs-4 text-light">Setup Mikrotik</i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
+
                                     <div class="col-md-6 mb-4 portfolio-item second">
                                         <div class="position-relative overflow-hidden mb-2">
                                             <img class="img-fluid w-100" src="img/portfolio-7.webp" alt="">
@@ -361,8 +384,10 @@
 
                     <!-- Contact Start -->
                     <section class="py-5 wow fadeInUp" data-wow-delay="0.1s" id="contact">
-                        <h1 class="title pb-3 mb-5">Contact Me</h1>
-						<p class="mb-4">Thanks for contacting me. I will contact you shortly..</p>
+                        <h1 class="title pb-3 mb-5" data-section="contact"
+                        data-value="title">Contact Me</h1>
+						<p class="mb-4" data-section="contact"
+                        data-value="response">Thanks for contacting me. I will contact you shortly..</p>
                         
                     </section>
                     <!-- Contact End -->
@@ -372,7 +397,7 @@
                         <div class="bg-secondary text-light text-center p-5">
                             <div class="d-flex justify-content-center mb-4">
                                 <a class="btn btn-primary btn-square mx-1" href="https://www.linkedin.com/in/ezequiel-dur%C3%A9-1b988a206/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-primary btn-square mx-1" href="https://www.instagram.com/ezedure/" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-primary btn-square mx-1" href="https://github.com/ezequieldureit" target="_blank"><i class="fab fa-github"></i></a>
                             </div>    
 							<p class="m-0">&copy; Developed for my CV.</p>
                         </div>
