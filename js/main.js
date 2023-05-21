@@ -113,3 +113,9 @@ const changeLanguage = async (language) => {
 flagsElement.addEventListener("click", (e) => {
   changeLanguage(e.target.parentElement.dataset.language);
 });
+
+window.addEventListener('load', function() {
+  document.querySelectorAll('section').forEach(function(section) {
+      section.style.display = 'block';
+  });
+});
