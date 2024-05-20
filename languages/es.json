@@ -13,7 +13,7 @@
   },
   "about": {
     "title": "Sobre mí",
-    "description": "¡Hola, mi nombre es Ezequiel! Soy un apasionado profesional de TI con experiencia en soporte técnico, redes y desarrollo web.\n\nMi enfoque se centra en brindar soluciones eficientes en soporte técnico, garantizando el funcionamiento óptimo de los sistemas y la infraestructura de TI. Además, tengo habilidades en diseño, implementación y gestión de redes, asegurando su estabilidad y seguridad.\n\nTambién me he aventurado en el desarrollo web, creando sitios web interactivos y visualmente atractivos que cumplen con los últimos estándares. Me esfuerzo por ofrecer una experiencia de usuario excepcional, asegurando la usabilidad y optimización de los sitios web.\n\nSiempre estoy abierto al aprendizaje continuo y me mantengo actualizado con las últimas tendencias en TI para proporcionar soluciones innovadoras.\n\nEstoy entusiasmado con la oportunidad de conectarme con profesionales de la industria y explorar oportunidades de colaboración. No dudes en contactarme con un mensaje o solicitud de conexión.",
+    "description": "¡Hola! Mi nombre es Ezequiel y soy competente en metodologías de desarrollo de software, pensamiento analítico y resolución efectiva de problemas. Estoy ansioso por seguir aprendiendo nuevas habilidades y crecer en mi campo. Desde mis primeros días en soporte técnico y gestión de infraestructura on-premises hasta mi actual pasión por el desarrollo web full stack y la administración en la nube, he adquirido valiosa experiencia en la industria de TI. Actualmente, me especializo en la creación de aplicaciones web completas y la gestión eficiente de infraestructuras en la nube. Mi formación incluye una sólida comprensión de diversas tecnologías relacionadas con el desarrollo web y la administración en la nube, lo que me permite ofrecer soluciones innovadoras y eficientes en proyectos digitales.\n\nComo un comunicador sólido y un jugador de equipo adaptable, sobresalgo en entornos colaborativos, asegurando una coordinación fluida entre las partes interesadas en el desarrollo web y la administración en la nube. Mi compromiso de entregar soluciones de software de alta calidad está respaldado por un historial de proyectos exitosos donde he demostrado habilidades en el diseño, implementación y gestión de aplicaciones web, así como en la administración de entornos en la nube. Estoy constantemente actualizando mis conocimientos para mantenerme al tanto de las últimas tendencias y tecnologías en el campo del desarrollo web full stack y la administración en la nube, lo que me permite ofrecer soluciones efectivas y de vanguardia para satisfacer las necesidades de mis clientes.",
     "name": "Nombre:",
     "degree": "Grado:",
     "degree-description": "Licenciatura en sistemas en curso",
@@ -22,7 +22,7 @@
     "birthday": "Fecha de nacimiento:",
     "birthday-description": "3 de Octubre de 1988",
     "experience": "Experiencia:",
-    "experience-description": "12 años",
+    "experience-description": "8 años",
     "freelance-description": "Disponible"
   },
   "counter": {
@@ -49,7 +49,7 @@
     "description": "Como especialista en soporte técnico en Dell Support, gestioné y resolví solicitudes de soporte de clientes, diagnosticé y resolví problemas de hardware y software, realicé reparaciones y reemplazos de componentes, y brindé orientación y asesoramiento sobre el uso adecuado de las computadoras Dell. Mi objetivo era brindar un servicio excepcional y garantizar el buen funcionamiento del equipo de los clientes."
   },
   "position-2": {
-    "title": "Soporte Técnico",
+    "title": "Especialista IT",
     "company": "Congress Rental",
     "dates": "2010 - 2021",
     "description": "Como profesional de TI en Congress Rental, proporcioné servicios de TI para eventos. Mis responsabilidades incluían configurar y administrar la infraestructura de TI, garantizar el funcionamiento fluido del equipo audiovisual, solucionar problemas técnicos y brindar soporte en el lugar durante los eventos. Trabajé en estrecha colaboración con los clientes para comprender sus requisitos específicos de TI y ofrecer soluciones confiables para satisfacer sus necesidades. Jugué un papel vital en garantizar el éxito de los eventos al garantizar una conectividad perfecta, una gestión eficiente de datos y un soporte técnico excepcional."
@@ -73,13 +73,13 @@
     "description": "Me especializo en ofrecer servicios profesionales de SEO que ayudarán a mejorar tu visibilidad en línea y atraer más tráfico a tu sitio web. ¡Trabajemos juntos para alcanzar tus objetivos de marketing digital!"
   },
   "networking": {
-    "title": "Networking",
-    "description": "Soy un especialista en redes informáticas, dedicado a proporcionar soluciones confiables para una conectividad sin problemas. Con una amplia experiencia en el diseño, implementación y gestión de redes informáticas."
+    "title": "Administración de Infraestructuras de nube",
+    "description": "Soy un especialista en infraestructura en la nube, dedicado a proporcionar soluciones fiables para operaciones en la nube. Con experiencia en diseño, implementación y gestión de clouds."
   },
 
   "portfolio": {
     "all": "Todo",
-    "development": "Desarrollo"
+    "development": "Landing Pages"
   },
 
   "contact": {

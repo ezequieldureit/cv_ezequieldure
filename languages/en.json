@@ -13,7 +13,7 @@
   },
   "about": {
     "title": "About Me",
-    "description": "Hello, my name is Ezequiel! I am a passionate IT professional with experience in technical support, networks, and web development.\n\nMy focus is on providing efficient technical support solutions, ensuring optimal operation of systems and IT infrastructure. Additionally, I have skills in designing, implementing, and managing networks, ensuring their stability and security.\n\nI have also ventured into web development, creating interactive and visually appealing websites that adhere to the latest standards. I strive to deliver an exceptional user experience, ensuring usability and optimization of websites.\n\nI am always open to continuous learning and stay updated with the latest IT trends to provide innovative solutions.\n\nI am excited about the opportunity to connect with industry professionals and explore collaboration opportunities. Please feel free to contact me with a message or connection request.",
+    "description": "Hi! My name is Ezequiel, and I'm proficient in software development methodologies, analytical thinking, and effective problem-solving. I am eager to continue learning new skills and growing in my field. From my early days in technical support and on-premises infrastructure management to my current passion for full-stack web development and cloud administration, I have gained valuable experience in the IT industry. Currently, I specialize in creating comprehensive web applications and efficiently managing cloud infrastructures. My background includes a solid understanding of various technologies related to web development and cloud administration, allowing me to deliver innovative and efficient solutions in digital projects.\n\nAs a strong communicator and adaptable team player, I excel in collaborative environments, ensuring smooth coordination among stakeholders in web development and cloud administration. My commitment to delivering high-quality software solutions is supported by a track record of successful projects where I have demonstrated skills in designing, implementing, and managing web applications, as well as in cloud environment administration. I am constantly updating my knowledge to stay abreast of the latest trends and technologies in the field of full-stack web development and cloud administration, enabling me to offer effective and cutting-edge solutions to meet my clients' needs.",
     "name": "Name:",
     "degree": "Degree:",
     "degree-description": "Computer Science Degree in progress",
@@ -22,7 +22,7 @@
     "birthday": "Birthday:",
     "birthday-description": "October 3, 1988",
     "experience": "Experience:",
-    "experience-description": "12 years",
+    "experience-description": "8 years",
     "freelance-description": "Available"
   },
   "counter": {
@@ -49,7 +49,7 @@
     "description": "As a technical support specialist at Dell Support, I managed and resolved customer support requests, diagnosed and resolved hardware and software issues, performed repairs and component replacements, and provided guidance and advice on proper usage of Dell computers. My goal was to deliver exceptional service and ensure the smooth operation of customers' equipment."
   },
   "position-2": {
-    "title": "Technical Support",
+    "title": "IT Specialist",
     "company": "Congress Rental",
     "dates": "2010 - 2021",
     "description": "As an IT professional at Congress Rental, I provided IT services for events. My responsibilities included setting up and managing IT infrastructure, ensuring smooth operation of audiovisual equipment, troubleshooting technical issues, and providing on-site support during events. I worked closely with clients to understand their specific IT requirements and deliver reliable solutions to meet their needs. I played a vital role in ensuring the success of events by ensuring seamless connectivity, efficient data management, and exceptional technical support."
@@ -73,12 +73,12 @@
     "description": "I specialize in providing professional SEO services that will help improve your online visibility and drive more traffic to your website. Let's work together to achieve your digital marketing objectives!"
   },
   "networking": {
-    "title": "Networking",
-    "description": "I am a computer networks specialist, dedicated to providing reliable solutions for seamless connectivity. With extensive experience in designing, implementing, and managing computer networks."
+    "title": "Cloud Infrastructure Management",
+    "description": "I am a cloud infrastructure specialist, dedicated to providing reliable solutions for seamless cloud operations. With extensive experience in designing, implementing, and managing cloud infrastructures."
   },
   "portfolio": {
     "all": "All",
-    "development": "Development"
+    "development": "Landing Pages"
   },
   "contact": {
     "title": "Contact Me",

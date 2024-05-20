@@ -105,7 +105,6 @@ const changeLanguage = async (language) => {
   for (const textToChange of textsToChange) {
     const section = textToChange.dataset.section;
     const value = textToChange.dataset.value;
-   
 
     textToChange.innerHTML = texts[section][value];
   }
@@ -114,8 +113,32 @@ flagsElement.addEventListener("click", (e) => {
   changeLanguage(e.target.parentElement.dataset.language);
 });
 
-window.addEventListener('load', function() {
-  document.querySelectorAll('section').forEach(function(section) {
-      section.style.display = 'block';
+window.addEventListener("load", function () {
+  document.querySelectorAll("section").forEach(function (section) {
+    section.style.display = "block";
   });
 });
+
+function openPopup(url) {
+  // Dimensiones del popup
+  var width = 1000;
+  var height = 600;
+
+  // Dimensiones de la ventana del navegador
+  var left = screen.width / 2 - width / 2;
+  var top = screen.height / 2 - height / 2;
+
+  // Abrir la nueva ventana centrada
+  window.open(
+    url,
+    "_blank",
+    "width=" +
+      width +
+      ",height=" +
+      height +
+      ",scrollbars=yes,resizable=yes,top=" +
+      top +
+      ",left=" +
+      left
+  );
+}
